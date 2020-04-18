@@ -14,7 +14,7 @@ In 2-player mode one of the players chooses word for the other.
 
 ![Hangcat](https://github.com/marta-krzyk-dev/Hangcat/blob/master/hangcat.jpg?raw=true=300x300)
 
-## Install and Run
+## Install
 Run
 ```
 pip install termcolor
@@ -24,4 +24,10 @@ in terminal (cmd) to install termcolor library be able run the script. :shipit:
 You might also need to run
 ```
 pip install converters
+```
+## Run
+Make sure Python is installed on the machine. 
+In terminal (cmd) run:
+```
+python hangcat.py
 ```
