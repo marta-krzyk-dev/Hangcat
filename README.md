@@ -12,7 +12,7 @@ In 2-player mode one of the players chooses word for the other.
 - [x] Player can't enter non-letter as a guess
 - [x] If guess is more than 1 character long, first letter is taken as a guess
 
-![Hangcat](https://github.com/marta-krzyk-dev/Hangcat/blob/master/hangcat.jpg?raw=true | width = 300)
+![Hangcat](https://github.com/marta-krzyk-dev/Hangcat/blob/master/hangcat.jpg?raw=true | width=300)
 
 ## Install and Run
 Run
