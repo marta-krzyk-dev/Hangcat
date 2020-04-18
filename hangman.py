@@ -284,7 +284,7 @@ while True:
     game = Hangcat()
     game.ClearScreen()
 
-    if not game.Play():
+    if False == game.Play():
         break
     else:
         input(colored("Click ENTER to go back to the menu", "green", attrs=["bold"]))
